@@ -18,9 +18,22 @@ It is not a self-help brand.
 
 It is a practical framework for people who want stronger communities and better lives.
 
-Start with:
+## Start Here
 
-* Manifesto
-* Constitution
-* Circle Handbook
-* Circle Launch Guide
+### Core Documents
+
+- [Manifesto](docs/manifesto.md)
+- [Constitution](docs/constitution.md)
+- [Handbook](docs/handbook.md)
+
+### Circle Roles
+
+- [Facilitator](roles/facilitator.md)
+- [Steward](roles/steward.md)
+- [Scribe](roles/scribe.md)
+- [Bridge](roles/bridge.md)
+
+### Playbooks
+
+- [Launch a Circle](playbooks/circle-launch.md)
+- [Conflict Resolution](playbooks/conflict-resolution.md)
