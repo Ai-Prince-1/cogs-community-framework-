@@ -1,6 +1,6 @@
-# COGS Framework
+# COGS Community Framework
 
-### Circle of Good Stewards
+### Circle of Good Stewards / Community Organizing & Growth System
 
 What if humanity's next great innovation is not a new technology, but a better way to organize ourselves?
 
