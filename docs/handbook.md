@@ -138,7 +138,7 @@ The Season Opening is the one gathering per Season that is longer than 70 minute
 | **Close** | 10 min | Scribe reads back all intentions and commitments. First weekly Facilitator confirmed. |
 
 #### Life domains — choose 2 to 3 per Season
-Circles choose their domains together. No domain is mandatory. The group picks what matters most to them right now.
+Circles choose their domains together. This list is a recommended non-exhaustive starting point. No domain is mandatory. The group picks what matters most to them right now.
 
 | Domain | What it covers |
 | :--- | :--- |
