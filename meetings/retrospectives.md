@@ -1,7 +1,0 @@
-# Retrospectives
-
-## Overview
-
-## Purpose
-
-## Guidelines
