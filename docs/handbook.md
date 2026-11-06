@@ -1,5 +1,5 @@
 # THE COGS FRAMEWORK
-## Circle of Good Stewards
+## Circle of Good Samaritans
 ### Circle Handbook
 
 *Everything a Circle needs to start, run, grow, and self-correct.*
@@ -599,6 +599,6 @@ The goal was never the framework. **The goal was the people.**
 
 ---
 
-*The COGS Framework  ·  Circle of Good Stewards  ·  Circle Handbook  ·  v0.5  ·  Open Source  ·  Creative Commons  ·  Forkable*
+*The COGS Framework  ·  Circle of Good Samaritans  ·  Circle Handbook  ·  v0.5  ·  Open Source  ·  Creative Commons  ·  Forkable*
 
 *This document belongs to no one and everyone.*

@@ -2,7 +2,7 @@
 
 **Start your first COGS Circle in one evening.**
 
-The Circle of Good Stewards (COGS) is a lightweight, non-doctrinal framework for small groups of people who want to grow together — physically, financially, emotionally, and relationally — with honesty and accountability.
+The Circle of Good Samaritans (COGS) is a lightweight, non-doctrinal framework for small groups of people who want to grow together — physically, financially, emotionally, and relationally — with honesty and accountability.
 
 You don’t need permission, money, or special tools. Just 3–7 people who trust each other enough to show up honestly.
 
@@ -14,7 +14,7 @@ You don’t need permission, money, or special tools. Just 3–7 people who trus
 - [ ] Have an informal conversation with them
 - [ ] Schedule your first **Season Opening** (90–120 minutes)
 - [ ] Set up a shared group chat (Signal, WhatsApp, etc.)
-- [ ] Share the [Manifesto](../manifesto.md) and this Handbook
+- [ ] Share the [Manifesto](../docs/manifesto.md) and this Handbook
 
 ---
 
@@ -90,7 +90,7 @@ After the meeting, everyone posts their commitment in the group chat.
 - **In-person is best**, but hybrid/remote works if cameras stay on.
 - **Facilitation rotates** from week one — no permanent leader.
 - **Be kind but honest** — the power is in the practice, not perfection.
-- Review the [Red Flags](../handbook.md#section-8--anti-cult-and-self-correction-protocols) early so everyone knows the guardrails.
+- Review the [Red Flags](../docs/handbook.md#the-red-flag-protocol) early so everyone knows the guardrails.
 
 ---
 
@@ -104,9 +104,9 @@ After the meeting, everyone posts their commitment in the group chat.
 ---
 
 **Full Resources**
-- [Circle Handbook](COGS-Circle-Handbook-v0.5.md) ← Detailed operating manual
-- [Manifesto](../manifesto.md) ← Why this exists
-- [COGS Logo & Brand Assets](../assets/)
+- [Circle Handbook](../docs/handbook.md) ← Detailed operating manual
+- [Manifesto](../docs/manifesto.md) ← Why this exists
+- [COGS Logo & Brand Assets](../branding/assets.md)
 
 ---
 

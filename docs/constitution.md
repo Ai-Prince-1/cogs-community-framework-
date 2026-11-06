@@ -1,7 +1,7 @@
 # COGS Framework Constitution
 
 ## Purpose
-This document outlines the foundational governance principles, structural rules, and operational framework of the COGS (Circle of Good Stewards) community structure. It serves as the constitutional framework for how Circles, Meshes, and Assemblies operate.
+This document outlines the foundational governance principles, structural rules, and operational framework of the COGS (Circle of Good Samaritans) community structure. It serves as the constitutional framework for how Circles, Meshes, and Assemblies operate.
 
 ---
 

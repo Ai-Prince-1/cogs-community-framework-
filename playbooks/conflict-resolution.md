@@ -90,9 +90,9 @@ The best conflict resolution is prevention:
 ---
 
 **Full Resources**
-- [Circle Handbook](../COGS-Circle-Handbook-v0.5.md) — Section 5 has the complete protocol
-- [Season Retrospective Guide](../season_retrospective.md)
-- [Manifesto](../manifesto.md)
+- [Circle Handbook](../docs/handbook.md) — Section 5 has the complete protocol
+- [Season Retrospective Guide](../meetings/retrospective.md)
+- [Manifesto](../docs/manifesto.md)
 
 ---
 
