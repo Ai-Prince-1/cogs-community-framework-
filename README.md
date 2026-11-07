@@ -2,6 +2,10 @@
 
 ### Circle of Good Samaritans / Community Organizing & Growth System
 
+### 🔗 Website: **https://ai-prince-1.github.io/cogs-community-framework-/**
+The whole framework as an easy-to-read site: manifesto, handbook, playbooks, meeting templates and roles.
+
+
 What if humanity's next great innovation is not a new technology, but a better way to organize ourselves?
 
 Modern society has unprecedented access to information, yet rising loneliness, declining trust, social fragmentation, and growing polarization.
@@ -70,6 +74,16 @@ COGS changes through public proposals, like open-source software:
 - Small fixes: open a pull request (see [CONTRIBUTING](CONTRIBUTING.md)).
 - Changes to how Circles work: write an [RFC](rfc/README.md) using the [template](rfc/template.md).
 - Version history: [CHANGELOG](CHANGELOG.md).
+
+## How the website works
+
+| Layer | What it is |
+|---|---|
+| **Content** | The Markdown files in this repo (`docs/`, `playbooks/`, `meetings/`, `roles/` …). They are the single source of truth. |
+| **Build** | `site/build.py` turns them into web pages with a shared design (`site/template.html`, `site/home.html`, `site/style.css`). |
+| **Hosting** | GitHub Actions rebuilds and publishes the site to GitHub Pages on every change to `main`. Free, no server. |
+
+To preview locally: `pip install markdown && python site/build.py && python -m http.server -d _site`.
 
 ## License
 
