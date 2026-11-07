@@ -1,5 +1,5 @@
 # The COGS Community Framework
-## Circle of Good Stewards
+## Circle of Good Samaritans
 ### An agile framework for human flourishing.
 
 > **We move together what none of us can move alone.**
@@ -41,7 +41,7 @@ The COGS Framework is a lightweight, decentralized, open-source operating system
 It is a practical coordination framework — structured, like Scrum, as a working method rather than a belief system. Scrum does not tell software teams what to build; it gives them a structure for deciding together, learning together, and improving their work together. The COGS Framework does the same for human communities — it does not tell people what to believe or how to live; it gives them a structure for showing up, learning together, and helping each other live better lives.
 
 ### Why COGS?
-**COGS — Circle of Good Stewards.**
+**COGS — Circle of Good Samaritans.**
 * Remove one person from a Circle and the whole group feels it.
 * Add one and everything moves with less effort.
 * No one here is a replaceable part. Everyone here is the point.
@@ -267,7 +267,7 @@ Not an empire. Not an institution. Not a movement with a headquarters and a boar
 *   A civic culture that can distinguish genuine community from manufactured belonging.
 *   Humans who are wiser, healthier, freer, more cooperative, and more humane — not because they were told to be, but because they practiced.
 
-> **We do not need more movements. We need more good stewards — of each other, our communities, and ourselves.**
+> **We do not need more movements. We need more good Samaritans — of each other, our communities, and ourselves.**
 
 ---
 
@@ -323,11 +323,11 @@ The food banks and shelters showed what happens at the bottom when people fall w
 *   **Diversity principle restored** in Compassion value and Mesh/Assembly sections.
 *   **Seeding Ceremony four-step protocol restored** in full within Module A.
 *   **Origin story retained** at end as 'The Story Behind The COGS Framework.'
-*   **Closing pull quote retained from v0.4:** 'We do not need more movements. We need more good stewards.'
+*   **Closing pull quote retained from v0.4:** 'We do not need more movements. We need more good Samaritans.'
 *   **Infrastructure Capture Shield elevated** to its own standalone section (Part X).
 
 ---
 
-**The COGS Framework  ·  Circle of Good Stewards  ·  v0.5  ·  Open Source  ·  Creative Commons  ·  Forkable**
+**The COGS Framework  ·  Circle of Good Samaritans  ·  v0.5  ·  Open Source  ·  Creative Commons  ·  Forkable**
 
 *This document belongs to no one and everyone.*
