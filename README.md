@@ -81,7 +81,7 @@ COGS changes through public proposals, like open-source software:
 |---|---|
 | **Content** | The Markdown files in this repo (`docs/`, `playbooks/`, `meetings/`, `roles/` …). They are the single source of truth. |
 | **Build** | `site/build.py` turns them into web pages with a shared design (`site/template.html`, `site/home.html`, `site/style.css`). |
-| **Hosting** | GitHub Actions rebuilds and publishes the site to GitHub Pages on every change to `main`. Free, no server. |
+| **Hosting** | GitHub Actions rebuilds the site on every change to `main` and pushes it to the `gh-pages` branch, which GitHub Pages serves. Free, no server. |
 
 To preview locally: `pip install markdown && python site/build.py && python -m http.server -d _site`.
 
